@@ -1,1 +1,9 @@
+/.idea
+dao/__pycache__
+helpers/__pycache__
+views/__pycache__
 .DS_Store
+__pycache__
+movies.db
+venv
+tests/*/.pytest_cache
